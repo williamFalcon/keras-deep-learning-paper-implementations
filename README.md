@@ -1,6 +1,7 @@
 # Keras-paper-implementations
-Repository that aggregates various Deep Learning implementations in Keras.    
 
+A curated list of implementations in keras.      
+    
 **We welcome your contributions!**
 
 If you have any paper/code suggestions, please feel free to edit and pull a request.
