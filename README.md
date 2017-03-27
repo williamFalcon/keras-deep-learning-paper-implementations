@@ -1,4 +1,4 @@
-# keras-paper-implementations
+# Keras-paper-implementations
 Repository that aggregates various Deep Learning implementations in Keras.    
 
 **We welcome your contributions!**
