@@ -15,6 +15,11 @@ If you have any paper/code suggestions, please feel free to edit and pull a requ
 - Pix2Pix. Image-to-Image Translation with Conditional Adversarial Networks (2016), P. Isola et al. [[pdf]](https://arxiv.org/pdf/1611.07004.pdf) [[code]](https://github.com/williamFalcon/pix2pix-keras)
 - Deepmind's wavenet (2016), Van den Oord et al. [[pdf]](https://arxiv.org/pdf/1609.03499.pdf) [[code]](https://github.com/usernaamee/keras-wavenet)
 
+### Image Super Resolution    
+
+-  Image Super-Resolution Using Deep Convolutional Networks (2015), C. Dong et al. [[pdf]](https://arxiv.org/pdf/1501.00092v3.pdf) [[code]](https://github.com/titu1994/Image-Super-Resolution)
+
+
 ## Acknowledgement
 
 Thank you for all your contributions.
