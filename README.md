@@ -1,6 +1,8 @@
 # Keras-paper-implementations
 
 A curated list of implementations in keras.      
+
+It's a bit of a hassle to find implementation of most of the latest papers. Hopefully this allows anyone to get up and running with the state-of-the-art networks in little to no time.    
     
 **We welcome your contributions!**
 
