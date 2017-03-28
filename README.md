@@ -21,6 +21,9 @@ If you have any paper/code suggestions, please feel free to edit and pull a requ
 -  Image Super-Resolution Using Deep Convolutional Networks (2015), C. Dong et al. [[pdf]](https://arxiv.org/pdf/1501.00092v3.pdf) [[code]](https://github.com/titu1994/Image-Super-Resolution)
 - Time-series modeling with undecimated fully convolutional neural networks (2015), R. Mittelman. [[pdf]](https://arxiv.org/pdf/1508.00317.pdf) [[code]](https://github.com/lukovkin/ufcnn-keras)
 
+### LSTM    
+- Phased LSTM: Accelerating Recurrent Network Training for Long or Event-based Sequences (2016), D. Neil [[pdf]](https://arxiv.org/pdf/1610.09513.pdf) [[code]](https://github.com/fferroni/PhasedLSTM-Keras)    
+
 ### Fun Models  
 
 -  Deep Dream. Inceptionism: Going Deeper into Neural Networks (2015), A. Mordvintsev et al. at Google. [[blog]](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) [[code]](https://github.com/fchollet/keras/blob/master/examples/deep_dream.py)
