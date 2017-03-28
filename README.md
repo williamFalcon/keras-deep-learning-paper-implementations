@@ -24,7 +24,7 @@ If you have any paper/code suggestions, please feel free to edit and pull a requ
 
 -  Deep Dream. Inceptionism: Going Deeper into Neural Networks (2015), A. Mordvintsev et al. at Google. [[blog]](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) [[code]](https://github.com/fchollet/keras/blob/master/examples/deep_dream.py)
 -  Style Transfer. Image Style Transfer Using Convolutional Neural Networks (2016), L. Gatys. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) [[code]](https://github.com/fchollet/keras/blob/master/examples/neural_style_transfer.py)
--  Fast Neural Style Transfer. Perceptual Losses for Real-Time Style Transfer and Super-Resolution (2016), J. Johnson. [[pdf]](https://arxiv.org/pdf/1603.08155.pdf) [[code]](https://github.com/titu1994/Fast-Neural-Style)    
+-  Fast (realtime) Neural Style Transfer. Perceptual Losses for Real-Time Style Transfer and Super-Resolution (2016), J. Johnson. [[pdf]](https://arxiv.org/pdf/1603.08155.pdf) [[code]](https://github.com/titu1994/Fast-Neural-Style)    
 
 ## Acknowledgement
 
