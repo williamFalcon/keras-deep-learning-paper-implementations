@@ -19,6 +19,7 @@ If you have any paper/code suggestions, please feel free to edit and pull a requ
 ### Convolutional Models  
 
 -  Image Super-Resolution Using Deep Convolutional Networks (2015), C. Dong et al. [[pdf]](https://arxiv.org/pdf/1501.00092v3.pdf) [[code]](https://github.com/titu1994/Image-Super-Resolution)
+- Time-series modeling with undecimated fully convolutional neural networks (2015), R. Mittelman. [[pdf]](https://arxiv.org/pdf/1508.00317.pdf) [[code]](https://github.com/lukovkin/ufcnn-keras)
 
 ### Fun Models  
 
