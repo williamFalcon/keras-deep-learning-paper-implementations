@@ -11,10 +11,10 @@ If you have any paper/code suggestions, please feel free to edit and pull a requ
 ---   
 
 ### Imagenet Models    
-- VGG16 [[pdf]](https://arxiv.org/pdf/1409.1556.pdf) [[code]](https://github.com/fchollet/deep-learning-models/blob/master/vgg16.py)
-- VGG19 [[pdf]](https://arxiv.org/pdf/1409.1556.pdf) [[code]](https://github.com/fchollet/deep-learning-models/blob/master/vgg19.py)
-- XCeption [[pdf]](https://arxiv.org/pdf/1611.07004.pdf) [[code]](https://github.com/fchollet/deep-learning-models/blob/master/xception.py)
-- Inception v3 [[pdf]](https://arxiv.org/pdf/1611.07004.pdf) [[code]](https://github.com/fchollet/deep-learning-models/blob/master/inception_v3.py)    
+- VGG16 (2014), K. Simonyan et al. [[pdf]](https://arxiv.org/pdf/1409.1556.pdf) [[code]](https://github.com/fchollet/deep-learning-models/blob/master/vgg16.py)
+- VGG19 (2014), K. Simonyan et al. [[pdf]](https://arxiv.org/pdf/1409.1556.pdf), [[code]](https://github.com/fchollet/deep-learning-models/blob/master/vgg19.py)
+- XCeption (2016), F. Chollet. [[pdf]](https://arxiv.org/pdf/1610.02357.pdf) [[code]](https://github.com/fchollet/deep-learning-models/blob/master/xception.py)
+- Inception v3 (2015), C. Szegedy et al. [[pdf]](https://arxiv.org/pdf/1512.00567.pdf) [[code]](https://github.com/fchollet/deep-learning-models/blob/master/inception_v3.py)    
 
 
 ### Unsupervised / Generative Models    
