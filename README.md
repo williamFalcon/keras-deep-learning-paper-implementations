@@ -13,7 +13,6 @@ If you have any paper/code suggestions, please feel free to edit and pull a requ
 ### Imagenet Models    
 - VGG16 (2014), K. Simonyan et al. [[pdf]](https://arxiv.org/pdf/1409.1556.pdf) [[code]](https://github.com/fchollet/deep-learning-models/blob/master/vgg16.py)
 - VGG19 (2014), K. Simonyan et al. [[pdf]](https://arxiv.org/pdf/1409.1556.pdf), [[code]](https://github.com/fchollet/deep-learning-models/blob/master/vgg19.py)
-- XCeption (2016), F. Chollet. [[pdf]](https://arxiv.org/pdf/1610.02357.pdf) [[code]](https://github.com/fchollet/deep-learning-models/blob/master/xception.py)
 - Inception v3 (2015), C. Szegedy et al. [[pdf]](https://arxiv.org/pdf/1512.00567.pdf) [[code]](https://github.com/fchollet/deep-learning-models/blob/master/inception_v3.py)    
 
 
@@ -24,7 +23,7 @@ If you have any paper/code suggestions, please feel free to edit and pull a requ
 -  Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network. (2016), C. Ledig et al. [[pdf]](https://arxiv.org/pdf/1609.04802v2.pdf) [[code]](https://github.com/titu1994/Super-Resolution-using-Generative-Adversarial-Networks)
 
 ### Convolutional Models  
-
+- XCeption (2016), F. Chollet. [[pdf]](https://arxiv.org/pdf/1610.02357.pdf) [[code]](https://github.com/fchollet/deep-learning-models/blob/master/xception.py)
 -  Image Super-Resolution Using Deep Convolutional Networks (2015), C. Dong et al. [[pdf]](https://arxiv.org/pdf/1501.00092v3.pdf) [[code]](https://github.com/titu1994/Image-Super-Resolution)
 - Time-series modeling with undecimated fully convolutional neural networks (2015), R. Mittelman. [[pdf]](https://arxiv.org/pdf/1508.00317.pdf) [[code]](https://github.com/lukovkin/ufcnn-keras)
 - DenseNet: Densely Connected Convolutional Network (2016), G. Huang. [[pdf]](https://arxiv.org/abs/1608.06993) [[code]](https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/DenseNet)
