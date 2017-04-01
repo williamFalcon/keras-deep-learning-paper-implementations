@@ -1,4 +1,4 @@
-# Keras-paper-implementations
+# Keras Deep Learning Paper Implementations    
 
 A curated list of implementations in keras.      
 
