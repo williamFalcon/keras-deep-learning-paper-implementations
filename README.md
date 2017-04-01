@@ -23,6 +23,7 @@ If you have any paper/code suggestions, please feel free to edit and pull a requ
 
 ### LSTM    
 - Phased LSTM: Accelerating Recurrent Network Training for Long or Event-based Sequences (2016), D. Neil [[pdf]](https://arxiv.org/pdf/1610.09513.pdf) [[code]](https://github.com/fferroni/PhasedLSTM-Keras)    
+- Bidirectional LSTM: Neural Architectures for Named Entity Recognition (2016), G. Lample [[pdf]](http://www.aclweb.org/anthology/N16-1030) [[code]](https://gist.github.com/dirko/1d596ca757a541da96ac3caa6f291229)    
 
 ### Fun Models  
 
