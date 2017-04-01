@@ -11,6 +11,7 @@ If you have any paper/code suggestions, please feel free to edit and pull a requ
 ---   
 
 ### Imagenet Models    
+- Alexnet (2012), A. Krizhevsky et al. [[pdf]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) [[code]](https://gist.github.com/JBed/c2fb3ce8ed299f197eff)    
 - VGG16 (2014), K. Simonyan et al. [[pdf]](https://arxiv.org/pdf/1409.1556.pdf) [[code]](https://github.com/fchollet/deep-learning-models/blob/master/vgg16.py)
 - VGG19 (2014), K. Simonyan et al. [[pdf]](https://arxiv.org/pdf/1409.1556.pdf), [[code]](https://github.com/fchollet/deep-learning-models/blob/master/vgg19.py)
 - Inception v3 (2015), C. Szegedy et al. [[pdf]](https://arxiv.org/pdf/1512.00567.pdf) [[code]](https://github.com/fchollet/deep-learning-models/blob/master/inception_v3.py)    
