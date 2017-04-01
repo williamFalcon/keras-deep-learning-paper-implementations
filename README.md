@@ -6,7 +6,7 @@ It's a bit of a hassle to find implementation of most of the latest papers. Hope
     
 **We welcome your contributions!**
 
-If you have any paper/code suggestions, please feel free to edit and pull a request.
+If you have any paper/code suggestions, please feel free to edit and sumbit a pull request.
 
 ---   
 
