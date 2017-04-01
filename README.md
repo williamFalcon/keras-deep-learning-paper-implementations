@@ -11,8 +11,8 @@ If you have any paper/code suggestions, please feel free to edit and pull a requ
 ---   
 
 ### Imagenet Models    
-- VGG16 [[pdf]](https://arxiv.org/pdf/1611.07004.pdf) [[code]](https://github.com/fchollet/deep-learning-models/blob/master/vgg16.py)
-- VGG19 [[pdf]](https://arxiv.org/pdf/1611.07004.pdf) [[code]](https://github.com/fchollet/deep-learning-models/blob/master/vgg19.py)
+- VGG16 [[pdf]](https://arxiv.org/pdf/1409.1556.pdf) [[code]](https://github.com/fchollet/deep-learning-models/blob/master/vgg16.py)
+- VGG19 [[pdf]](https://arxiv.org/pdf/1409.1556.pdf) [[code]](https://github.com/fchollet/deep-learning-models/blob/master/vgg19.py)
 - XCeption [[pdf]](https://arxiv.org/pdf/1611.07004.pdf) [[code]](https://github.com/fchollet/deep-learning-models/blob/master/xception.py)
 - Inception v3 [[pdf]](https://arxiv.org/pdf/1611.07004.pdf) [[code]](https://github.com/fchollet/deep-learning-models/blob/master/inception_v3.py)    
 
